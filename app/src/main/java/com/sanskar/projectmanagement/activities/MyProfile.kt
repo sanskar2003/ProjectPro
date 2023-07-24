@@ -30,6 +30,7 @@ import java.util.PriorityQueue
 import java.util.Scanner
 
 class MyProfile : BaseActivity() {
+
     private lateinit var email_profile: EditText
     private lateinit var name_profile: EditText
     private lateinit var phone_profile: EditText
