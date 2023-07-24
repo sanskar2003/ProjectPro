@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="intro_bg">#EFF2FF</color>
+    <color name="intro_txt">#187EDD</color>
+    <color name="text_dark">#212121</color>
+    <color name="text_dark_light">#565656</color>
+    <color name="snackbar_error_color">#F72400</color>
+    <color name="toolbar">#0C90F1</color>
+    <color name="disabled_text">#808080</color>
+</resources>

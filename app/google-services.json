@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804496063357",
+    "project_id": "projectpro-cc3b7",
+    "storage_bucket": "projectpro-cc3b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804496063357:android:51fc4707240ea41552aa14",
+        "android_client_info": {
+          "package_name": "com.sanskar.projectmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804496063357-pe7qu9ik807gi6p5hpbukvcd566jkct3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYLBOeDeHq2V2453VQ8RFSzFhCCBbtX_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804496063357-pe7qu9ik807gi6p5hpbukvcd566jkct3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
