@@ -34,6 +34,6 @@ class SpalshActivity : AppCompatActivity() {
                     ActivityOptions.makeSceneTransitionAnimation(this).toBundle())
             }
             Handler().postDelayed({finish()}, 1000)
-        }, 2500)
+        }, 3000)
     }
 }

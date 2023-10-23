@@ -6,7 +6,7 @@
     <Transition
         motion:constraintSetEnd="@+id/end"
         motion:constraintSetStart="@id/start"
-        motion:duration="1000"
+        motion:duration="1500"
         motion:autoTransition="animateToEnd">
        <KeyFrameSet>
        </KeyFrameSet>
@@ -34,7 +34,7 @@
             android:scaleX="0"
             android:scaleY="0"
             android:alpha="0"
-            motion:transitionEasing="decelerate" />
+            motion:transitionEasing="linear" />
     </ConstraintSet>
 
     <ConstraintSet android:id="@+id/end">
@@ -59,6 +59,6 @@
             android:scaleX="1"
             android:scaleY="1"
             android:alpha="1"
-            motion:transitionEasing="accelerate" />
+            motion:transitionEasing="cubic(1,0,1,0)" />
     </ConstraintSet>
 </MotionScene>
